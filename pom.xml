@@ -8,6 +8,14 @@
         <version>1.5.9.RELEASE</version>
         <relativePath/>
     </parent>
+    <developers>
+        <developer>
+            <name>zaid</name>
+        </developer>
+        <developer>
+            <name>wesam</name>
+        </developer>
+    </developers>
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.bsge</groupId>
